@@ -1,3 +1,5 @@
+# coding: utf-8
+#NEON
 
 # Improved MNIST MLP method with a second Hidden layer with Exponential Activation 2times smaller than the previous layer
 print("we had a 97.5% accurate model previously that we will go from")
