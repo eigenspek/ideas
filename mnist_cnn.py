@@ -1,5 +1,8 @@
 # coding: utf-8
 
+# NEON
+
+# CNN for MNIST Dataset with ADAM Optimizer
 # NOTE : 97.6% Accuracy with only 1 Epoch. 
 
 
