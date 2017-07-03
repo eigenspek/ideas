@@ -1,3 +1,8 @@
+# coding: utf-8
+
+# NEON
+
+
 # Introduction to Image classification with a convolutional neural network. It will be trained on a CIFAR-10 Dataset. 
 
 # first, we generate the backend : 
